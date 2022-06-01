@@ -1,0 +1,55 @@
+.mainCard {
+    background: #E6E6E6;
+    height: 300px;
+    margin-bottom: 50px !important;
+	 margin: auto
+}
+.card-cont {
+    width: 75%;
+    margin-left: auto;
+    
+    margin-right: auto;
+    margin: -le;
+    justify-content: space-between;
+}
+.myCss{
+background:#E6E6E6;
+    margin: auto;
+    position: relative;
+    height: 300px;
+    margin-bottom: 50px;
+
+}
+.box-icon {
+    position: absolute;
+    top: -30px;
+    left: 45%;
+}
+.custom-nav-style{
+    margin-bottom: 50px;
+	}
+	
+	.navbar-nav {
+   
+    display: flex !important;
+    justify-content: flex-end;
+	margin-right: 5rem;
+	    align-items: flex-end;
+}
+div#navbarNav {
+    justify-content: flex-end;
+	}
+.navbar-brand{
+position:absolute;
+left:7rem
+}
+button.navbar-toggler {
+    margin-left: 85%;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    clear: both;
+    margin-bottom: -20px;
+}
